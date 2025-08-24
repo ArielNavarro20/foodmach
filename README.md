@@ -5,7 +5,9 @@ Sistema web inclusivo que recomienda menús seguros según condiciones de salud 
 
 Esta primera versión incluye:
 - Controladores principales en `app/Http/Controllers/`
-- Archivo .env.example plantilla 
+- Archivo .env.example plantilla
+- consideraciones: solo agregue algunos controladores y muchos archivos no estaban termionados o en verdad no sabia si incluirlos o no
+- en la proxima version subire algo mas consistente y completo 
 
 
 tecnologias
