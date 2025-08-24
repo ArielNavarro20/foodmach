@@ -13,7 +13,7 @@ tecnologias
 - PHP 8.2
 - MySQL 8
 
-## 🚀 Cómo usar este repo
+
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/TUUSUARIO/foodmach
